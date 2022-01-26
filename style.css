@@ -48,6 +48,9 @@ html {
   position: absolute;
   top: 1.7rem;
   right: 3rem;
+}
+
+.search-icon.change {
   animation: searchIconAnim 1s forwards;
 }
 
